@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: ` You're an apple of my eyes `,
     btnIntro: 'không hiểu =)))',
     title: ' Cho thơm má ',
-    https://linhman.github.io/tang-crush/ desc: ' Khong thi minh hon moi =))) ',
+    desc: ' Khong thi minh hon moi =))) ',
     btnYes: ' Vângggg =)))) ',
     btnNo: 'Không, không có dễ dãi',
     question:' Và em vẫn luôn gọi anh là em bé ',
@@ -12,5 +12,4 @@ const CONFIG = {
     mess: ' Yêu anh 😀  ',
     messDesc: ' Đỗ ĐH nha! ',
     btnAccept: ' =))) ',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'https://www.facebook.com/manmailinhhh'
