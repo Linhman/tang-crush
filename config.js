@@ -6,10 +6,11 @@ const CONFIG = {
     desc: ' Khong thi minh hon moi =))) ',
     btnYes: ' Vângggg =)))) ',
     btnNo: 'Không, không có dễ dãi',
-    question:' Và em vẫn luôn gọi anh là em bé ',
-    btnReply: ' không thích thì vẫn phải nghe  ',
-    reply: ' Cho em hon ma them 1 cai hon moi ',
+    question:' em vẫn luôn gọi anh là em bé ',
+    btnReply: ' Yêu em ❤️  ',
+    reply: ' Bởi người lớn hay gặp nhiều chuyện buồn ',
     mess: ' Yêu anh 😀  ',
     messDesc: ' Đỗ ĐH nha! ',
     btnAccept: ' =))) ',
     messLink: 'https://www.facebook.com/manmailinhhh'
+}
