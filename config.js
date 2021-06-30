@@ -7,10 +7,10 @@ const CONFIG = {
     btnYes: ' Vângggg =)))) ',
     btnNo: 'Không, không có dễ dãi',
     question:'  tại sao lại yêu em ',
-    btnReply: ' Dù sao thì ...  ',
-    reply: ' ',
-    mess: ' Yêu anh 😀  ',
-    messDesc: ' Đỗ ĐH nha! ',
-    btnAccept: ' =))) ',
+    btnReply: 'Haizz Em muốn nói với anh ',
+    reply: ' vi em ngu qua nen anh yeu em  ',
+    mess: ' Em yêu anh 😀  ',
+    messDesc: ' Đỗ ĐH mình thích nha! ',
+    btnAccept: '  =))) ',
     messLink: 'https://www.facebook.com/manmailinhhh'
 }
