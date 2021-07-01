@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Haizz Em muốn nói với anh ',
     reply: ' vi em ngu qua nen anh yeu em  ',
     mess: ' Em yêu anh 😀  ',
-    messDesc: ' Đỗ ĐH mình thích nha! ',
+    messDesc: ' như cách em yêu tiền vậy =))) ',
     btnAccept: '  =))) ',
     messLink: 'https://www.facebook.com/manmailinhhh'
 }
